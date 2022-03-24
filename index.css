@@ -1,0 +1,163 @@
+@font-face {
+  font-family: "cooper";
+  src: url("PTC55F.ttf");
+}
+img {
+    pointer-events: none !important;
+}
+
+.about {
+border-left: 1px white solid;
+height: 70px;
+width: 0px;
+}
+.navbar-fixed-top.scrolled {
+  background-color:  #0d6efd !important;
+  color: white !important;
+  transition: background-color 200ms linear;
+}
+
+.shadow {
+  box-shadow: 1rem 1rem 2rem rgb(15,15,15) !important;
+}
+
+.margin {
+  margin-right: 6rem !important;
+}
+
+p, span, small, .btn, .modal {
+  font-family: cooper !important;
+}
+
+p {
+  white-space: nowrap !important;
+  font-size: 9px !important;
+}
+
+footer p {
+  font-size: 15px !important;
+}
+
+.size-costum {
+  font-size: 15px !important;
+}
+
+.btn-secondary {
+  height: 35px !important;
+}
+
+.hrr {
+  opacity: 1 !important;
+  height: 4px !important;
+  width: 60px !important;
+}
+
+/* Produk Start */
+.menu-konten{
+  width: 115px !important;
+  height: 152px !important;
+  margin-bottom: 40px !important;
+  text-align: center !important;
+  background: white !important;
+  border-radius: 7px 7px 7px 7px !important;
+  float: left;
+  margin-top: 2% !important;
+}
+
+.menu-konten img{
+  width: 87px !important;
+  margin-left: 3% !important;
+  height: auto !important;
+  margin-left: 1% !important;
+  margin-right: 1% !important;
+  border-radius: 15px !important;
+}
+.menu-konten span {
+  font-size: 13px !important;
+}
+
+.menu-konten p {
+  font-size: 8px !important;
+  color: white !important;
+  opacity: 0.8 !important;
+  font-weight: bold !important;
+}
+/* Produk End */
+
+.costum {
+  margin-top: 60px !important;
+}
+
+body .btn-dark:hover {
+  background: #fd7e14 !important;
+  background-color: #fd7e14 !important;
+  border: 1px #fd7e14 !important;
+}
+
+/* Produk Slider Start */
+.wrapper {
+  max-height: 700px !important;
+  display: flex !important;
+  overflow-x: auto !important;
+}
+
+.wrapper::webkit-scrollbar{
+  width: 0 !important;
+}
+/* width */
+::-webkit-scrollbar {
+  width: 0 ;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: transparent;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: transparent;
+}
+
+.wrapper .item {
+  text-align: center !important;
+  min-width: 118px !important;
+  height: 190px !important;
+  line-height: auto !important;
+  margin-top: 15px !important;
+}
+
+.menu-slider {
+  width: 110px !important;
+  height: 150px;
+  margin-bottom: 40px !important;
+  text-align: center !important;
+  background: white !important;
+  border-radius: 7px 7px 7px 7px !important;
+  float: left;
+  margin-top: 2% !important;
+}
+
+.menu-slider img {
+  width: 76px !important;
+  height: auto !important;
+  margin-left: 1% !important;
+  margin-right: 1% !important;
+  border-radius: 15px !important;
+}
+.menu-slider span {
+  font-size: 12px !important;
+}
+
+.menu-slider p {
+  font-size: 8px !important;
+  color: white !important;
+  opacity: 0.8 !important;
+  font-weight: bold !important;
+}
+/* Produk Slider End */
