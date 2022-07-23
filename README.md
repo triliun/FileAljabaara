@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @FileAljabaar
-- 👀 I’m interested in Html,Css,Javascript,C#,C++,Python,Java
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on Idk
+- 👋 Hi, I’m Aljabaar
+- 👀 I’m interested in ReactJS, NodeJS, Mysql, Python & C++
+- 🌱 I’m currently learning C++
+- 💞️ IG: @Vrl_aljabaar
 - 📫 How to reach me Aljabaar
 
 <!---
