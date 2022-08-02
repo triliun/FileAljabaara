@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aljabaar
 - 👀 I’m interested in ReactJS, NodeJS, Mysql, Python & C++
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python
 - 💞️ IG: @Vrl_aljabaar
 - 📫 How to reach me Aljabaar
 
